@@ -29,7 +29,7 @@ const softwareIDEs: IconData[] = [
         `,
         width: 30.857,
         height: 36,
-        xOffset: -2,
+        xOffset: -1,
     },
 
     {
